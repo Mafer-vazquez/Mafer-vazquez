@@ -1,4 +1,3 @@
-![Logo](https://cdn.discordapp.com/attachments/848652563477823499/1543740411061862570/Desarrolladora_java_full_stack_7.jpg?ex=6a95f7cb&is=6a94a64b&hm=75e9ba4b90b26f9f897ee4511308d71f9df67162c3bfca83561e48e0b200d08a&)
 
 
 # Hola soy Mafer Vazquez! 👋🌸
