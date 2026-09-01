@@ -9,8 +9,7 @@
 
 
 ## 🛠 Skills
-**Backend:** Java, Spring Boot, Programación Orientada a Objetos (POO).
-
+* **Backend:**  Java, Spring Boot, Programación Orientada a Objetos (POO).
 * **Frontend:** JavaScript ,  HTML5 , CSS , Bootstrap, Diseño Web Responsivo.
 * **Bases de Datos:** SQL relacional, MongoDB.
 * **Control de Versiones & Herramientas:** Git, GitHub, Visual Studio Code.
